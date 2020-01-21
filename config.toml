@@ -16,7 +16,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello"
+    title = "@APT"
     subtitle = "APT 12216 FTC"
     keywords = ""
     copyright = ""
@@ -31,7 +31,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello"
+      logoText = "@APT"
       logoHomeLink = "/"
     # or
     #
