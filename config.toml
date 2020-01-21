@@ -1,7 +1,7 @@
 title = "APT Robotics"
 baseURL = "https://example.com"
 languageCode = "en-us"
-theme = "ananke"
+theme = "gohugo-theme-anank"
 themesDir = "../.."
 
 MetaDataFormat = "yaml"
