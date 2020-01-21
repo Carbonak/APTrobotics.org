@@ -1,8 +1,7 @@
 title = "APT Robotics"
 baseURL = "https://example.com"
 languageCode = "en-us"
-theme = "gohugo-theme-anank"
-themesDir = "../.."
+theme = "gohugo-theme-ananik"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -31,5 +30,5 @@ enableRobotsTXT = true
   stackoverflow = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "~/APTrobotics.org/themes/ananke/static/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
